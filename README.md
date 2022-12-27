@@ -9,6 +9,9 @@ Data-driven decision making is the future — be a part of it.
 After this course, you’ll:
 
 Accelerate your career with in-demand data analytics skills
+
 Build your resume with real-world data analytics experience
+
 Have experience with intercultural training used by the UN 
+
 Demonstrate the ability to interact effectively with diverse team members
